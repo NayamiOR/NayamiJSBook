@@ -8,7 +8,7 @@ sublime是功能类似vscode的代码编辑器，主要的功能是编辑，支�
 
 实际上必应就可以在第一条的位置轻松搜索到：
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 安装
 
@@ -16,7 +16,7 @@ sublime是功能类似vscode的代码编辑器，主要的功能是编辑，支�
 
 第一个问题是是否将sublime添加到右键菜单，一般来说可以在文件管理器里选择文件和文件夹直接用sublime打开，推荐勾选，不是很重要。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 然后程序会自动进行安装，安装目录建议选择Program Files文件夹，可以自己选择。最后点击Finish按钮后安装就完成了。
 
@@ -26,3 +26,5 @@ sublime是功能类似vscode的代码编辑器，主要的功能是编辑，支�
 
 1. 代码高亮
 2. 代码提示
+
+![](../.gitbook/assets/image.png)
