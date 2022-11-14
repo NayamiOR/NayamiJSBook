@@ -1,3 +1,7 @@
+---
+description: 用JS做网络爬虫有相当的优势，且语法比Python优雅
+---
+
 # JavaScript 爬虫
 
 > 相比Python，JavaScript才是更适合写爬虫的语言。原因有如下三个方面：
