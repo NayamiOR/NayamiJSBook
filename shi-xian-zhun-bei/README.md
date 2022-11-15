@@ -14,3 +14,4 @@ description: 工欲善其事，必先利其器。
 **其它清单**
 
 * GitHub账号（程序员的身份证，哪里都用的上）
+* [https://kaifa.baidu.com](https://kaifa.baidu.com/)：百度自己开发的开发者搜索引擎，针对编程内容做了优化，综合来说百度开发者>必应>百度

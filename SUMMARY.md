@@ -11,5 +11,7 @@
 * [在线编辑器&编译器](zai-xian-bian-ji-qi-bian-yi-qi.md)
 * [类C语言基本语法介绍](leicyu-yan-ji-ben-yu-fa-jie-shao.md)
 * [JavaScript语法](javascript-yu-fa/README.md)
-  * [基础语法](javascript-yu-fa/ji-chu-yu-fa.md)
+  * [变量和数据类型](javascript-yu-fa/bian-liang-he-shu-ju-lei-xing.md)
+  * [对象](javascript-yu-fa/dui-xiang.md)
+  * [函数](javascript-yu-fa/han-shu.md)
 * [JavaScript 爬虫](javascript-pa-chong.md)
