@@ -30,7 +30,7 @@ git官网下载链接
 
 调整你的 path 环境变量，这里可以盲选第二个
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 选择执行文件，这个默认
 
