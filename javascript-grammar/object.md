@@ -36,7 +36,7 @@ person['firstName'];
 
 对象方法定义了一个函数，并作为对象属性存储。具体
 
-```
+```javascript
 person.run()    //调用person对象里定义了的run函数
 ```
 
