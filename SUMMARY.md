@@ -14,6 +14,7 @@
 * [类C语言基本语法介绍](c-like-grammar.md)
 * [JavaScript语法笔记](javascript-grammar/README.md)
   * [变量和数据类型](javascript-grammar/variable-type.md)
+  * [数组](javascript-grammar/array.md)
   * [对象](javascript-grammar/object.md)
   * [函数](javascript-grammar/function.md)
   * [类](javascript-grammar/class.md)
