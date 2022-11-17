@@ -10,7 +10,7 @@ description: 用于给本地编辑提供部分Gitbook语法参照
 
 图片：
 
-<figure><img src=".gitbook/assets/-10a05e50603df37a.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 * [ ] task list
 * [x] task list ticked
@@ -43,8 +43,8 @@ $$
 
 page link:
 
-{% content-ref url="shi-xian-zhun-bei/" %}
-[shi-xian-zhun-bei](shi-xian-zhun-bei/)
+{% content-ref url="pre/" %}
+[pre](pre/)
 {% endcontent-ref %}
 
 api:
