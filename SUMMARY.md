@@ -9,7 +9,7 @@
   * [git安装](pre/git-install.md)
   * [Python安装](pre/python-install.md)
   * [sublime text 安装](pre/sublime-text-install.md)
-* [学习资料](xue-xi-zi-liao.md)
+* [学习资料](materials.md)
 * [在线编辑器&编译器](online-IDE.md)
 * [类C语言基本语法介绍](c-like-grammar.md)
 * [JavaScript语法笔记](javascript-grammar/README.md)
