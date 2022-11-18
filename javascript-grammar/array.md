@@ -1,5 +1,5 @@
 ---
-Description:
+Description: null
 ---
 
 # 数组
@@ -15,7 +15,6 @@ const set = new Set([1, 2, 3, 4, 4]);
 var arr = Array.from(map);
 var arr = Array.from(set);
 var arr = Array.from(another Array);
-
 ```
 
 ## API方法
@@ -40,7 +39,7 @@ arr.length;
 ```
 
 ### 判断是不是数组
-    
+
 ```js
 if(value instanceof Array){
 
@@ -83,16 +82,16 @@ arr.copyWithin(target, start, end);
 
 ### 转换
 
-- toString: 将数组转换为字符串，元素之间用逗号分隔
-- toLocaleString: 将数组转换为字符串，元素之间用逗号分隔，元素调用toLocaleString方法
-- valueOf: 返回数组本身
+* toString: 将数组转换为字符串，元素之间用逗号分隔
+* toLocaleString: 将数组转换为字符串，元素之间用逗号分隔，元素调用toLocaleString方法
+* valueOf: 返回数组本身
 
 ### 栈方法&队列方法
 
-- push
-- pop
-- shift
-- unshift
+* push
+* pop
+* shift
+* unshift
 
 ```js
 var arr = [1, 2, 3];
@@ -108,9 +107,9 @@ arr.unshift(1); // [1, 2, 3]
 
 ### 搜索&定位
 
-- indexOf
-- lastIndexOf
-- includes
+* indexOf
+* lastIndexOf
+* includes
 
 ```js
 var arr = [1, 2, 3, 4, 5];
@@ -127,15 +126,15 @@ arr.includes(3, 3);     // false
 
 ### 操作方法
 
-- concat：传入多个值或者数组，返回一个按顺序包含所有值的新数组
-- slice：传入开始位置和结束位置，返回一个在原数组从开始位置到结束位置-1的切片（一个新数组）
-- splice：可以删除可以插入可以替换
+* concat：传入多个值或者数组，返回一个按顺序包含所有值的新数组
+* slice：传入开始位置和结束位置，返回一个在原数组从开始位置到结束位置-1的切片（一个新数组）
+* splice：可以删除可以插入可以替换
 
 #### splice
 
-- 删除：传入开始位置和删除个数，返回一个包含被删除元素的新数组
-- 插入：传入开始位置和要插入的值，返回一个空数组
-- 替换：传入开始位置、删除个数和要插入的值，返回一个包含被删除元素的新数组
+* 删除：传入开始位置和删除个数，返回一个包含被删除元素的新数组
+* 插入：传入开始位置和要插入的值，返回一个空数组
+* 替换：传入开始位置、删除个数和要插入的值，返回一个包含被删除元素的新数组
 
 ```js
 var arr = ["a", "b", "c", "d", "e"];
@@ -149,13 +148,13 @@ arr.splice(1, 2, "g","h");    // ["a", "g", "h", "d", "e"]
 
 ### 迭代方法
 
-- every：对数组中的每个元素执行一次传入的函数，如果所有元素都返回true，则返回true，否则返回false
-- filter：对数组中的每个元素执行一次传入的函数，返回一个新数组，新数组中的元素是传入函数返回true的元素
-- forEach：对数组中的每个元素执行一次传入的函数，没有返回值
-- map：对数组中的每个元素执行一次传入的函数，返回一个新数组
-- some：对数组中的每个元素执行一次传入的函数，如果有一个元素返回true，则返回true，否则返回false
+* every：对数组中的每个元素执行一次传入的函数，如果所有元素都返回true，则返回true，否则返回false
+* filter：对数组中的每个元素执行一次传入的函数，返回一个新数组，新数组中的元素是传入函数返回true的元素（人话：让数组的每一项分别去做一件事）
+* forEach：对数组中的每个元素执行一次传入的函数，没有返回值
+* map：对数组中的每个元素执行一次传入的函数，返回一个新数组（人话：跟foreach类似，但是会返回一个新数组，不改变原数组）
+* some：对数组中的每个元素执行一次传入的函数，如果有一个元素返回true，则返回true，否则返回false
 
 ### 归并方法
 
-- reduce：对数组中的每个元素执行一次传入的函数，返回一个值
-- reduceRight：对数组中的每个元素执行一次传入的函数，返回一个值，从右到左执行
+* reduce：对数组中的每个元素执行一次传入的函数，返回一个值
+* reduceRight：对数组中的每个元素执行一次传入的函数，返回一个值，从右到左执行
