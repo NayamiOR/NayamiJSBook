@@ -6,7 +6,7 @@ description: DOM：Document Object Model，文档对象模型
 
 网页被加载时，浏览器会创建页面的DOM，DOM模型被构造为（HTML）对象的树。
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>DOM的结构，帮助理解</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption><p>DOM的结构，帮助理解</p></figcaption></figure>
 
 ## 查找元素
 

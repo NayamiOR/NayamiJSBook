@@ -10,7 +10,7 @@ git官网下载链接
 
 先会让你选择安装位置，一般还是建议Program Files文件夹，也可以自己怎么顺手怎么来，不过养成好的使用习惯很有必要。
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 接着会让你选择安装组件，可以自己决定也可以照搬下面的选项。
 
@@ -34,7 +34,7 @@ git官网下载链接
 
 选择执行文件，这个默认
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 选择HTTPS后端传输，可以直接默认
 
