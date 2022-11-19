@@ -35,4 +35,4 @@
 * [Web服务部署笔记](web-server/README.md)
   * [Page 1](web-server/page-1.md)
 * [导包](import.md)
-* [远程连接VSCode Server进行在线开发](yuan-cheng-lian-jie-vscode-server-jin-hang-zai-xian-kai-fa.md)
+* [远程连接VSCode Server进行在线开发](connect-to-vscode-server.md)
