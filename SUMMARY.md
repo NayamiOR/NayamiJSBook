@@ -42,7 +42,6 @@
 
 ## JavaScript栈 <a href="#stack" id="stack"></a>
 
-* [Page 2](stack/page-2.md)
 * [Node.js 笔记](stack/node-js/README.md)
   * [第一个应用](stack/node-js/first-app.md)
 * [JavaScript 爬虫](stack/javascript-crawler/README.md)
