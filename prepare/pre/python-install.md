@@ -10,7 +10,7 @@ description: Python是很常用的环境，即使不开发Python还是会经常�
 
 首页可以看到一条导航栏，直接打开Downloads，在下载页面挑最新版的python，选择Windows installer，有32位数和64位数的供选择，如果不清楚自己电脑系统位数的话可以自己查一下。不过大多数情况下只要不是老古董电脑都可以盲选64位
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 这里直接附上32位和64位最新版的安装包（实在不确定位数可以都试一遍，反正坏不了）
 

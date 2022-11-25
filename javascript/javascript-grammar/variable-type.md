@@ -27,7 +27,7 @@ var y=      new Boolean;
 
 **引用数据类型（对象类型）**：对象(Object)、数组(Array)、函数(Function)，还有两个特殊的对象：正则（RegExp）和日期（Date）。
 
-<figure><img src="../.gitbook/assets/Javascript-DataType.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Javascript-DataType.png" alt=""><figcaption></figcaption></figure>
 
 JavaScript采用动态类型，也就是一个变量不会限制存储的值的类型，刚存储数字的变量也可以赋值字符串。
 

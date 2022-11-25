@@ -43,8 +43,8 @@ $$
 
 page link:
 
-{% content-ref url="pre/" %}
-[pre](pre/)
+{% content-ref url="prepare/pre/" %}
+[pre](prepare/pre/)
 {% endcontent-ref %}
 
 api:

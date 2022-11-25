@@ -14,8 +14,8 @@ Js曾经主要用于前端的操作比如参与页面的显示，但是node.js�
 
 ## 本书重点
 
-1. [online-IDE.md](online-IDE.md "mention")：电脑不好的情况下必备的在线运行环境
-2. [c-like-grammar.md](c-like-grammar.md "mention")：大多数主流语言中都具备的基础要素的概念介绍，入门必看
-3. [pre](pre/ "mention")：必备软件和其它工具，其中github是最重要的
-4. [javascript-grammar](javascript-grammar/ "mention")：基础语法的笔记，不建议直接啃这个，你自己的笔记也可以放在这里
-5. [javascript-crawler](javascript-crawler/ "mention")：爬虫笔记，新手没必要，我自己看
+1. [online-ide.md](prepare/online-ide.md "mention")：电脑不好的情况下必备的在线运行环境
+2. [c-like-grammar.md](prepare/c-like-grammar.md "mention")：大多数主流语言中都具备的基础要素的概念介绍，入门必看
+3. [pre](prepare/pre/ "mention")：必备软件和其它工具，其中github是最重要的
+4. [javascript-grammar](javascript/javascript-grammar/ "mention")：基础语法的笔记，不建议直接啃这个，你自己的笔记也可以放在这里
+5. [javascript-crawler](stack/javascript-crawler/ "mention")：爬虫笔记，新手没必要，我自己看
