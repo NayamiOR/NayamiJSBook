@@ -30,16 +30,6 @@
 * [TypeScript笔记](javascript/typescript-note/README.md)
   * [基础语法](javascript/typescript-note/basic-grammar.md)
 
-***
-
-* [JavaScript库](javascript-libraries/README.md)
-  * [Puppeteer](javascript-libraries/puppeteer.md)
-  * [cheerio](javascript-libraries/cheerio.md)
-  * [axios](javascript-libraries/axios.md)
-  * [导包](javascript-libraries/import.md)
-* [Web服务部署笔记](web-server/README.md)
-  * [Page 1](web-server/page-1.md)
-
 ## JavaScript栈 <a href="#stack" id="stack"></a>
 
 * [Node.js 笔记](stack/node-js/README.md)
@@ -48,3 +38,13 @@
   * [请求](stack/javascript-crawler/requests.md)
   * [爬取JS动态生成的内容](stack/javascript-crawler/get-elements-generated-by-js.md)
   * [HTML解析](stack/javascript-crawler/html-analysis.md)
+* [JavaScript库](stack/javascript-libraries/README.md)
+  * [Puppeteer](stack/javascript-libraries/puppeteer.md)
+  * [cheerio](stack/javascript-libraries/cheerio.md)
+  * [axios](stack/javascript-libraries/axios.md)
+  * [导包](stack/javascript-libraries/import.md)
+
+## 服务 <a href="#server" id="server"></a>
+
+* [Web服务部署笔记](server/web-server/README.md)
+  * [Page 1](server/web-server/page-1.md)
